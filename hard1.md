@@ -1,0 +1,14 @@
+- install the app:
+- ![Screenshot from 2025-03-02 11-01-30](https://github.com/user-attachments/assets/54029d13-4f6e-4f39-82cf-4ffc8ce2c60a)
+- decompile the apk file using jadx
+- ![Screenshot from 2025-03-02 11-02-06](https://github.com/user-attachments/assets/279d3c35-e7dd-4324-83b5-599b6395b76d)
+- open the app in the emulator:
+- try signing up with a user name and password.. its showing.. you are not leet enough.. so. if we find the correct username and password, we will be able to login
+- ![Screenshot from 2025-03-02 11-05-18](https://github.com/user-attachments/assets/cbf92746-bebb-4548-877d-fbe68a2675d6)
+- ![Screenshot from 2025-03-02 11-08-20](https://github.com/user-attachments/assets/f9ab89bc-e83f-4c9a-b954-68cb455e4131)
+- the string in aes encryted.. try decrypting the string using Aes with key 1234111111111111
+- ![Screenshot from 2025-03-02 11-09-44](https://github.com/user-attachments/assets/3880893b-0679-4e57-9319-232bbe8244b6)
+- tried using the key 1337111111111111
+- ![Screenshot from 2025-03-02 11-10-57](https://github.com/user-attachments/assets/7d58ece5-4d39-4d1e-a431-d6952cdf394d)
+- give the username as 1337 and password: BHn1snt_f0r_w4rm4p_j0st_k0tl1n}
+- ![Screenshot from 2025-03-02 11-13-57](https://github.com/user-attachments/assets/42e74791-b4e0-4053-bfd6-fc2152722e0f)
